@@ -57,6 +57,16 @@ body{
 
 /* CARD VIEW OF POSTS */
 
+.picture1{
+
+  width: 50%;
+  height: 200px;
+  object-fit: fill;
+  margin: 20px 0px;
+
+
+}
+
 .home{
   display: flex;
   padding: 50px 100px;
@@ -65,6 +75,7 @@ body{
 }
 
 .card{
+  background-image: repeating-linear-gradient(orange, brown);
   width: 30%;
   padding: 10px;
   -webkit-box-shadow: -4px 5px 15px 5px #000000;
