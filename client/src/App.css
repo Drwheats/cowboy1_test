@@ -242,3 +242,75 @@ input{
   color: lightblue;
 
 }
+
+/* FOR THE LIST PORTION OF THE WEBSITE (fake) */
+
+.bensList{
+  float: top;
+  display: flex;
+  width: 30%;
+  height: 80%;
+  -webkit-box-shadow: -4px 5px 15px 5px #000000;
+  box-shadow: -4px 5px 15px 5px #000000;
+  -moz-box-shadow: -4px 5px 15px 5px #000000;
+  align-items: center;
+  border-radius: 20px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.submitbuttonList{
+  color: white;
+  background-color: saddlebrown;
+  border-radius: 20px;
+  display: flex;
+  padding: 8px;
+  float: top;
+}
+
+.inputList{
+  float: right;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.label1{
+  color: red;
+}
+
+.readout_list_holder{
+  padding-left: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.readout_list{
+  background-image: repeating-linear-gradient(brown, orange);
+  -webkit-box-shadow: -4px 5px 15px 5px #000000;
+  box-shadow: -4px 5px 15px 5px #000000;
+  -moz-box-shadow: -4px 5px 15px 5px #000000;
+  padding: 80px;
+  width: 10%;
+  height: 20%;
+  border-radius: 50px;
+}
+
+.readout_list_title{
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.readout_list_content{
+
+}
+.readout_list_posts_by_id{
+
+}
+
+.readout_list_post_number{
+
+}

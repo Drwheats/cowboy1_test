@@ -2,17 +2,17 @@
 export const socials = [
     {
         id: 1,
-        title: "7 naked cowboys in the showers at ram ranch",
+        title: "ERROR CODE NUMBER ONE",
         img: "../cowboyone.png",
-        desc: "Yea im thinking this is epic",
-        longDesc: 'OK YEAH SO I AM THINKING THAT THIS IS BEN SHAPIRO BOTTOM TEXT EPIC STYLE EPIC OAGMONGS'
+        desc: "Click here to read about error code number one",
+        longDesc: 'post to long'
     },
     {
         id: 2,
-        title: "8 naked cowboys in the showers at ram ranch",
+        title: "ERROR CODE NUMBER TWO",
         img: "../cowboy12.png",
-        desc: "Yea im thinking this is epic",
-        longDesc: 'OK YEAH SO I AM THINKING THAT THIS IS BEN SHAPIRO BOTTOM TEXT EPIC STYLE EPIC OAGMONGS'
+        desc: "Click here to read about error code number two",
+        longDesc: 'you know what you did'
     },
     {
         id: 3,

@@ -13,7 +13,7 @@ const Login = () => {
           <div className="wrapper">
               <div className="left">
                   <div className="loginbutton google">
-                    <img src={Google} alt="" className="icon"/>
+                    <img src={Google} alt="" className="icon" />
                       Gooogle
                   </div>
                   <div className="loginbutton facebook">
